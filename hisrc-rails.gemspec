@@ -4,11 +4,11 @@ require 'hisrc-rails/version'
 Gem::Specification.new do |gem|
   gem.name          = 'hisrc-rails'
   gem.version       = HisrcRails::VERSION
-  gem.authors       = 'Mario Uher'
-  gem.email         = 'uher.mario@gmail.com'
+  gem.authors       = 'Ketan Anjaria'
+  gem.email         = 'fire@kidbombay.com'
   gem.description   = 'Make owners of the MacBook Pro with Retina Display happy and provide high-res images within your Rails app.'
   gem.summary       = 'Use hisrc-rails with Rails 3.1+.'
-  gem.homepage      = 'http://haihappen.github.com/hisrc-rails'
+  gem.homepage      = 'https://github.com/kidbombay/hisrc-rails'
 
   gem.files         = `git ls-files`.split("\n")
   gem.require_path  = 'lib'
